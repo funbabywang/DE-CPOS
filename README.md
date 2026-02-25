@@ -2,7 +2,7 @@
 <img width="284" height="147" alt="DE-CPOS-Logo" src="https://github.com/user-attachments/assets/1d0f84de-c196-4447-a26e-276853f3f209" />
 
 <h1 align="center">DE-CPOS</h1>
-[![Deep Learning 官网](https://img.shields.io/badge/Deep%20Learning-官网-0078D7?style=flat-square&logo=python&logoColor=white)](https://image.cursorhub.org/user-upload/1768915970177-a1bab351-c8d7-4b8a-97d0-4679bb6942e0.html)
+[![Deep Learning Corporation](https://img.shields.io/badge/Deep%20Learning%20Corporation-官方网站-2ea44f?style=flat-square)](https://image.cursorhub.org/user-upload/1768915970177-a1bab351-c8d7-4b8a-97d0-4679bb6942e0.html)
 
 
 # 简介
