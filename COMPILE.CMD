@@ -1,0 +1,1 @@
+nasm -f bin COMMAND.ASM -o COMMAND.COM

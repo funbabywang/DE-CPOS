@@ -1,0 +1,1 @@
+nasm -f bin DEBOOT.ASM -o BOOT.BIN
