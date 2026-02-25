@@ -3,7 +3,7 @@
 
 <h1 align="center">DE-CPOS</h1>
 
-![Deep Learning Corporation 官方网站]([(https://image.cursorhub.org/user-upload/1768915970177-a1bab351-c8d7-4b8a-97d0-4679bb6942e0.html])
+![Deep Learning Corporation 官方网站](https://image.cursorhub.org/user-upload/1768915970177-a1bab351-c8d7-4b8a-97d0-4679bb6942e0.html)
 
 # 简介
 DE-CPOS (Deep Learning Command Prompt Operating System) 是 Omege UOS 操作系统的前身。
